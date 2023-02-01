@@ -1,0 +1,9 @@
+setup.py
+gymsnake.egg-info/PKG-INFO
+gymsnake.egg-info/SOURCES.txt
+gymsnake.egg-info/dependency_links.txt
+gymsnake.egg-info/requires.txt
+gymsnake.egg-info/top_level.txt
+snake/__init__.py
+snake/envs/__init__.py
+snake/envs/snake_env.py
